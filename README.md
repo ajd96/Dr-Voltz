@@ -8,4 +8,4 @@ Google Play App Store - https://play.google.com/store/apps/details?id=com.istl.d
 Windows App Store - https://www.microsoft.com/en-gb/p/dr-voltz/9ntq83cd590d?activetab=pivot:overviewtab
 
 # Author
-Mr. Ashleigh Day
+Mr. Ashleigh Day & IST (https://www.istl.com/)
